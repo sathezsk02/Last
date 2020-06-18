@@ -3,6 +3,7 @@ public class Second_Project
 public static void main(String[] arg)
 {
 System.out.println("it is Second progarm");
-System.out.println("I think it is working fine");
+System.out.println("I think it is working not fine");
+System.out.println("it is github");
 }
 }
